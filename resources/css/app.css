@@ -1,0 +1,18 @@
+.error {
+    color: red;
+}
+.cur-p {
+    cursor: pointer;
+}
+.art-img {
+    width: 140px;
+    height: 140px;
+}
+.news-block-text {
+    max-height: 72px;
+    overflow-y: hidden;
+    text-overflow: ellipsis;
+}
+.news-block:hover {
+    background-color: #efefef;
+}
